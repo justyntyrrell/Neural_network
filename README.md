@@ -1,3 +1,3 @@
 # Neural_network
 
-Train neural network to read images of numbers 0-9
+Train 3-layer (input, hidden, output) neural network for hand-written digit recognition.
