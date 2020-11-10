@@ -30,8 +30,7 @@ pause;
 
 
 %% ================ Part 2: Loading Parameters ================
-% In this part of the exercise, we load some pre-initialized 
-% neural network parameters.
+% Load some pre-initialized neural network parameters.
 
 fprintf('\nLoading Saved Neural Network Parameters ...\n')
 
@@ -132,7 +131,7 @@ fprintf('Program paused. Press enter to continue.\n');
 pause;
 
 
-%% =================== Part 8: Training NN ===================
+%% =================== Part 9: Training NN ===================
 
 fprintf('\nTraining Neural Network... \n')
 
@@ -164,7 +163,7 @@ fprintf('Program paused. Press enter to continue.\n');
 pause;
 
 
-%% ================= Part 9: Visualize Weights =================
+%% ================= Part 10: Visualize Weights =================
 %   "visualize" what the neural network is learning by 
 %  displaying the hidden units to see what features they are capturing in 
 %  the data.
